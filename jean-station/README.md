@@ -5,7 +5,7 @@ This Repository contains the code for jean station app(similar to myntra), with 
 
 To start the project run the app.py and upload data of your wish using postman 
 
-example json data is the form of 
+example json data is in the form of 
 
 
     {
